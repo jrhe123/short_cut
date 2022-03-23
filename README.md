@@ -17,6 +17,8 @@ https://user-images.githubusercontent.com/17329299/159622019-9610729d-fb5b-4867-
 <br><br><br>
 # 2. PopRx Inc.
 
+https://user-images.githubusercontent.com/17329299/159624027-ce24da13-7be4-41ec-a9ec-1f818628671f.mp4
+
 ![S](https://user-images.githubusercontent.com/17329299/159618893-afc32299-86c1-4563-8cb3-003556f6863f.png)
 
 <img width="341" alt="Screen Shot 2022-03-22 at 11 37 03 PM" src="https://user-images.githubusercontent.com/17329299/159619020-1ef5d7b8-887c-45b3-ab29-525ea0269792.png">
