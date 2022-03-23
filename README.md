@@ -3,6 +3,8 @@
 <br><br><br>
 # 3. Opay Inc.
 
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/17329299/159622859-e43be6bf-d966-44c8-8d9e-379a0a4defd9.gif)
+
 <img width="1233" alt="Screen Shot 2022-03-23 at 12 00 58 AM" src="https://user-images.githubusercontent.com/17329299/159621963-accaf4a6-5967-4254-bf37-c154aef8276c.png">
 
 <img width="589" alt="Screen Shot 2022-03-23 at 12 06 37 AM" src="https://user-images.githubusercontent.com/17329299/159621987-230bebb0-784d-4d2c-8ae5-d683c48f9f23.png">
