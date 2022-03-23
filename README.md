@@ -3,7 +3,7 @@
 <br><br><br>
 # 3. Opay Inc.
 
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/17329299/159622859-e43be6bf-d966-44c8-8d9e-379a0a4defd9.gif)
+https://user-images.githubusercontent.com/17329299/159622019-9610729d-fb5b-4867-a7fb-f362584cf8da.mp4
 
 <img width="1233" alt="Screen Shot 2022-03-23 at 12 00 58 AM" src="https://user-images.githubusercontent.com/17329299/159621963-accaf4a6-5967-4254-bf37-c154aef8276c.png">
 
@@ -12,8 +12,6 @@
 
 <br><br><br>
 # 2. PopRx Inc.
-
-https://user-images.githubusercontent.com/17329299/159622019-9610729d-fb5b-4867-a7fb-f362584cf8da.mp4
 
 ![S](https://user-images.githubusercontent.com/17329299/159618893-afc32299-86c1-4563-8cb3-003556f6863f.png)
 
