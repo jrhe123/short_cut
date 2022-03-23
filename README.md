@@ -4,7 +4,7 @@
 
 ![S](https://user-images.githubusercontent.com/17329299/159618893-afc32299-86c1-4563-8cb3-003556f6863f.png)
 
-![screen-0](https://user-images.githubusercontent.com/17329299/159618912-695c1f7d-eb35-447b-8cfc-fd89a75e968a.jpeg)
+<img width="341" alt="Screen Shot 2022-03-22 at 11 37 03 PM" src="https://user-images.githubusercontent.com/17329299/159619020-1ef5d7b8-887c-45b3-ab29-525ea0269792.png">
 
 ### quick clinic:
 
