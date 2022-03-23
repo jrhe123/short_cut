@@ -5,8 +5,6 @@
 quick clinic:
 ![quick-clinic-video-overlay](https://user-images.githubusercontent.com/17329299/159616333-0778c3da-16d0-4ab8-b5e9-cfa931a4e129.jpeg)
 
-<img width="328" alt="Screen Shot 2022-03-22 at 10 57 52 PM" src="https://user-images.githubusercontent.com/17329299/159615325-854c043c-9e8a-4314-82c1-16d83f218e1b.png">
-
 ![1_IgneQiCQD3rhv2sHGX40-A](https://user-images.githubusercontent.com/17329299/159616300-6480fc60-88e1-4acd-9c93-45f32349f74f.gif)
 
 doctor prescribed faxing integrated:
