@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/17329299/159624027-ce24da13-7be4-41ec-
 
 ### SmartRx
 
-![1_M2aP-Dx99VUk9Zgh9wFSHg](https://user-images.githubusercontent.com/17329299/159618361-eb631104-a23e-457b-bb89-8b847ef8209f.png)
+<img src="https://user-images.githubusercontent.com/17329299/159618361-eb631104-a23e-457b-bb89-8b847ef8209f.png" />
 
 ### OTC ecommerce & doctor consultation 
 
