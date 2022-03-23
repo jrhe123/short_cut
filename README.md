@@ -1,7 +1,17 @@
 # Working experience (Please request detailed demo if you need)
 
 <br><br><br>
+# 3. Opay Inc.
+
+<img width="1233" alt="Screen Shot 2022-03-23 at 12 00 58 AM" src="https://user-images.githubusercontent.com/17329299/159621963-accaf4a6-5967-4254-bf37-c154aef8276c.png">
+
+<img width="589" alt="Screen Shot 2022-03-23 at 12 06 37 AM" src="https://user-images.githubusercontent.com/17329299/159621987-230bebb0-784d-4d2c-8ae5-d683c48f9f23.png">
+
+
+<br><br><br>
 # 2. PopRx Inc.
+
+https://user-images.githubusercontent.com/17329299/159622019-9610729d-fb5b-4867-a7fb-f362584cf8da.mp4
 
 ![S](https://user-images.githubusercontent.com/17329299/159618893-afc32299-86c1-4563-8cb3-003556f6863f.png)
 
