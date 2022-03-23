@@ -2,6 +2,8 @@
 
 # 2. PopRx Inc.
 
+https://www.youtube.com/watch?v=NAHd62s2F7I
+
 ### quick clinic:
 
 <img width="797" alt="Screen Shot 2022-03-22 at 11 21 08 PM" src="https://user-images.githubusercontent.com/17329299/159617475-36b892af-ced3-4afc-93f0-a6f2e3268017.png">
