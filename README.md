@@ -39,9 +39,7 @@ https://user-images.githubusercontent.com/17329299/159624027-ce24da13-7be4-41ec-
 
 ### OTC ecommerce & doctor consultation 
 
-<img width="253" alt="Screen Shot 2022-03-22 at 11 25 01 PM" src="https://user-images.githubusercontent.com/17329299/159617825-b178173b-3a1e-48b5-932d-8d6411be694b.png">
-
-<img width="255" alt="Screen Shot 2022-03-22 at 11 18 54 PM" src="https://user-images.githubusercontent.com/17329299/159617872-184f80ab-7bf0-450e-8641-420000517780.png">
+<img width="253" alt="Screen Shot 2022-03-22 at 11 25 01 PM" src="https://user-images.githubusercontent.com/17329299/159617825-b178173b-3a1e-48b5-932d-8d6411be694b.png"><img width="255" alt="Screen Shot 2022-03-22 at 11 18 54 PM" src="https://user-images.githubusercontent.com/17329299/159617872-184f80ab-7bf0-450e-8641-420000517780.png">
 
 <br><br><br>
 # 1. Xiaolu web inc
