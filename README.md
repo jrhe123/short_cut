@@ -2,7 +2,9 @@
 
 # 2. PopRx Inc.
 
-https://www.youtube.com/watch?v=NAHd62s2F7I
+![S](https://user-images.githubusercontent.com/17329299/159618893-afc32299-86c1-4563-8cb3-003556f6863f.png)
+
+![screen-0](https://user-images.githubusercontent.com/17329299/159618912-695c1f7d-eb35-447b-8cfc-fd89a75e968a.jpeg)
 
 ### quick clinic:
 
