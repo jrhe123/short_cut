@@ -10,7 +10,8 @@
 
 ### doctor prescribed faxing:
 
-<img width="611" alt="Screen Shot 2022-03-22 at 10 54 29 PM" src="https://user-images.githubusercontent.com/17329299/159615360-4bf33897-af96-4464-b06f-f6632f97f81d.png">
+<img width="468" alt="Screen Shot 2022-03-22 at 11 27 08 PM" src="https://user-images.githubusercontent.com/17329299/159618077-4c06becd-0681-495e-8695-c89192ece454.png">
+
 
 ### OTC ecommerce & doctor consultation 
 
