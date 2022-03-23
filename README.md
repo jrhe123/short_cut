@@ -1,4 +1,4 @@
-# Working experience (Please request detailed demo if you need)
+# Working experience (Request a full demo if you need)
 
 <br><br><br>
 # 4. Bizwave solutions
