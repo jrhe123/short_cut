@@ -1,6 +1,14 @@
 # Experience (Request a full demo)
 
 <br><br><br>
+# 6. PublishXi Inc.
+
+<img width="240" src="https://user-images.githubusercontent.com/17329299/159634677-8102d721-dba9-4e6f-8632-f63ab4b5af55.jpeg" />
+
+<img width="240" src="https://user-images.githubusercontent.com/17329299/159634691-db4df16c-4f4a-486f-ba6a-b6e1ae940328.jpeg" />
+
+
+<br><br><br>
 # 5. Avalon
 <img width="720" src="https://user-images.githubusercontent.com/17329299/159627847-3ac30a2f-be69-4ee2-bb18-7e5813ed92c9.png">
 
