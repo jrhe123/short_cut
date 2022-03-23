@@ -3,7 +3,13 @@
 <br><br><br>
 # 6. PublishXi Inc.
 
+https://user-images.githubusercontent.com/17329299/159635659-c4c87b57-735e-4694-92a4-c0a8386d92fe.mp4
+
 <img width="240" src="https://user-images.githubusercontent.com/17329299/159634677-8102d721-dba9-4e6f-8632-f63ab4b5af55.jpeg" />&nbsp;&nbsp;<img width="240" src="https://user-images.githubusercontent.com/17329299/159634691-db4df16c-4f4a-486f-ba6a-b6e1ae940328.jpeg" />
+
+<img width="720" src="https://user-images.githubusercontent.com/17329299/159634861-320dc69f-9caa-4256-95e8-9fe3cfbe26a2.jpeg" />
+
+<img width="720" src="https://user-images.githubusercontent.com/17329299/159634892-82c77f10-c06c-46dd-8ed9-b2581920eb88.jpeg" />
 
 
 <br><br><br>
