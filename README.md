@@ -26,7 +26,9 @@ https://user-images.githubusercontent.com/17329299/159624027-ce24da13-7be4-41ec-
 
 ### Quick clinic:
 
-<img width="240" src="https://user-images.githubusercontent.com/17329299/159616300-6480fc60-88e1-4acd-9c93-45f32349f74f.gif" />&nbsp;&nbsp;<img width="240" alt="Screen Shot 2022-03-22 at 11 21 08 PM" src="https://user-images.githubusercontent.com/17329299/159617475-36b892af-ced3-4afc-93f0-a6f2e3268017.png">
+<img width="720" src="https://user-images.githubusercontent.com/17329299/159617475-36b892af-ced3-4afc-93f0-a6f2e3268017.png">
+
+<img width="240" src="https://user-images.githubusercontent.com/17329299/159616300-6480fc60-88e1-4acd-9c93-45f32349f74f.gif" />
 
 ### Doctor prescribed:
 
