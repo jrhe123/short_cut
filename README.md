@@ -1,10 +1,8 @@
 # Experience (Request a full demo)
 
-<br><br><br>
 # 7. Jewlr
 
 <img width="720" src="https://user-images.githubusercontent.com/17329299/159635992-11b0e18a-fa86-4bb8-ad4f-4a0814fec673.png">
-
 
 <br><br><br>
 # 6. PublishXi Inc.
@@ -16,7 +14,6 @@ https://user-images.githubusercontent.com/17329299/159635659-c4c87b57-735e-4694-
 <img width="720" src="https://user-images.githubusercontent.com/17329299/159634861-320dc69f-9caa-4256-95e8-9fe3cfbe26a2.jpeg" />
 
 <img width="720" src="https://user-images.githubusercontent.com/17329299/159634892-82c77f10-c06c-46dd-8ed9-b2581920eb88.jpeg" />
-
 
 <br><br><br>
 # 5. Avalon
