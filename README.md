@@ -2,8 +2,8 @@
 
 <br><br><br>
 # 4. Bizwave solutions
-
-<img width="1237" alt="Screen Shot 2022-03-23 at 12 32 31 AM" src="https://user-images.githubusercontent.com/17329299/159624876-c7a4585b-c5c9-434c-804f-a7c1de676778.png">&nbsp;&nbsp;<img width="1228" alt="Screen Shot 2022-03-23 at 12 32 53 AM" src="https://user-images.githubusercontent.com/17329299/159624866-9c6ebb76-a6b0-4eba-a2eb-bc6c0fc4b61d.png">
+<img width="925" alt="Screen Shot 2022-03-23 at 12 37 15 AM" src="https://user-images.githubusercontent.com/17329299/159625150-313faa54-0ece-4eb8-9d40-531186575530.png">
+<img width="929" alt="Screen Shot 2022-03-23 at 12 37 30 AM" src="https://user-images.githubusercontent.com/17329299/159625180-36be798b-3c1a-4c8a-a1c3-67e210c8cb80.png">
 
 <img width="329" alt="Screen Shot 2022-03-23 at 12 33 56 AM" src="https://user-images.githubusercontent.com/17329299/159624855-5e29bcd0-7029-402d-9cf1-3a10571084c8.png">&nbsp;&nbsp;<img width="329" alt="Screen Shot 2022-03-23 at 12 34 14 AM" src="https://user-images.githubusercontent.com/17329299/159624831-4e3d2f60-8e17-4083-9856-b35362411442.png">&nbsp;&nbsp;<img width="327" alt="Screen Shot 2022-03-23 at 12 35 02 AM" src="https://user-images.githubusercontent.com/17329299/159624809-a9020354-957c-438c-bee3-1d31df0f9314.png">
 
