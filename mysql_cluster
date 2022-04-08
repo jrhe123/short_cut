@@ -1,0 +1,66 @@
+### MySQL cluster (Sharding Sphere & Snowflake algorithm)
+
+docker:
+
+1. docker network create --subnet=172.18.0.0/18 mynet
+2. docker load < MySQL.tar.gz
+3. docker load < jdk.tar.gz
+4. docker run -it -d --name mysql_1 -p 12001:3306 \
+--net mynet --ip 172.18.0.2 \
+-m 400m -v /root/mysql_1/data:/var/lib/mysql \
+-v /root/mysql_1/config:/etc/mysql/conf.d  \
+-e MYSQL_ROOT_PASSWORD=abc123456 \
+-e TZ=Asia/Shanghai --privileged=true \
+mysql:8.0.23 \
+--lower_case_table_names=1
+
+5. docker run -it -d --name mysql_2 -p 12002:3306 \
+--net mynet --ip 172.18.0.3 \
+-m 400m -v /root/mysql_2/data:/var/lib/mysql \
+-v /root/mysql_2/config:/etc/mysql/conf.d  \
+-e MYSQL_ROOT_PASSWORD=abc123456 \
+-e TZ=Asia/Shanghai --privileged=true \
+mysql:8.0.23 \
+--lower_case_table_names=1
+
+6. docker run -it -d --name mysql_3 -p 12003:3306 \
+--net mynet --ip 172.18.0.4 \
+-m 400m -v /root/mysql_3/data:/var/lib/mysql \
+-v /root/mysql_3/config:/etc/mysql/conf.d  \
+-e MYSQL_ROOT_PASSWORD=abc123456 \
+-e TZ=Asia/Shanghai --privileged=true \
+mysql:8.0.23 \
+--lower_case_table_names=1
+
+7. docker run -it -d --name mysql_4 -p 12004:3306 \
+--net mynet --ip 172.18.0.5 \
+-m 400m -v /root/mysql_4/data:/var/lib/mysql \
+-v /root/mysql_4/config:/etc/mysql/conf.d  \
+-e MYSQL_ROOT_PASSWORD=abc123456 \
+-e TZ=Asia/Shanghai --privileged=true \
+mysql:8.0.23 \
+--lower_case_table_names=1
+
+8. docker run -it -d --name mysql_5 -p 12005:3306 \
+--net mynet --ip 172.18.0.6 \
+-m 400m -v /root/mysql_5/data:/var/lib/mysql \
+-v /root/mysql_5/config:/etc/mysql/conf.d  \
+-e MYSQL_ROOT_PASSWORD=abc123456 \
+-e TZ=Asia/Shanghai --privileged=true \
+mysql:8.0.23 \
+--lower_case_table_names=1
+
+9. docker run -it -d --name ss -p 3307:3307 \
+--net mynet --ip 172.18.0.7 \
+-m 800m -v /root/ss:/root/ss \
+-e TZ=Asia/Shanghai --privileged=true \
+jdk bash
+
+10. unzip ShardingSphere.zip
+cd ShardingSphere/bin
+chmod -R 777 ./*
+docker exec -it ss bash
+cd /root/ss/ShardingSphere/bin
+./start.sh
+
+11. config/server.yaml
