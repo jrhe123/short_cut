@@ -1,0 +1,15 @@
+### Nacos
+
+docker:
+
+1. docker load < Nacos.tar.gz
+2. docker run -it -d -p 8848:8848 --env MODE=standalone \
+--net mynet --ip 172.18.0.12 -e TZ=Asia/Shanghai \
+--name nacos  nacos/nacos-server
+
+3. http://localhost:8848/nacos/
+
+username & pwd: nacos
+
+4. docker start nacos
+
