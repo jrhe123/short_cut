@@ -1,0 +1,14 @@
+### RabbitMQ
+
+docker:
+
+1. docker load < RabbitMQ.tar.gz
+2. docker run -it -d --name mq \
+--net mynet --ip 172.18.0.11 \
+-p 5672:5672 -m 200m \
+-e TZ=Asia/Shanghai --privileged=true \
+rabbitmq
+
+3. docker start mq
+
+* NO UI VERSION
