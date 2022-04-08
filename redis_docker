@@ -1,0 +1,35 @@
+### Redis
+
+docker:
+
+1. docker load < Redis.tar.gz
+2. /root/redis/conf/redis.conf
+
+bind 0.0.0.0
+protected-mode yes
+port 6379
+tcp-backlog 511
+timeout 0
+tcp-keepalive 0
+loglevel notice
+logfile ""
+databases 12
+save 900 1
+save 300 10
+save 60 10000
+stop-writes-on-bgsave-error yes
+rdbcompression yes
+rdbchecksum yes
+dbfilename dump.rdb
+dir ./
+requirepass abc123456
+
+3. docker run -it -d --name redis -m 200m \
+-p 6379:6379 --privileged=true \
+--net mynet --ip 172.18.0.9 \
+-v /root/redis/conf:/usr/local/etc/redis \
+-e TZ=Asia/Shanghai redis:6.0.10 \
+redis-server /usr/local/etc/redis/redis.conf
+
+4. docker start redis
+
