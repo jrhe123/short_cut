@@ -1,0 +1,29 @@
+### MongoDB
+
+docker:
+
+1. docker load < MongoDB.tar.gz
+2. /root/mongo/mongod.conf
+
+net:
+   port: 27017
+   bindIp: "0.0.0.0"
+
+storage:
+   dbPath: "/data/db"
+
+security:
+   authorization: enabled
+
+3. docker run -it -d --name mongo \
+-p 27017:27017 \
+--net mynet --ip 172.18.0.8 \
+-v /root/mongo:/etc/mongo \
+-v /root/mongo/data/db:/data/db \
+-m 400m --privileged=true \
+-e MONGO_INITDB_ROOT_USERNAME=admin \
+-e MONGO_INITDB_ROOT_PASSWORD=abc123456 \
+-e TZ=Asia/Shanghai \
+docker.io/mongo --config /etc/mongo/mongod.conf
+
+4. docker start mongo
