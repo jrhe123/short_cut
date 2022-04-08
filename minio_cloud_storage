@@ -1,0 +1,19 @@
+### Minio
+
+docker:
+
+1. docker load < Minio.tar.gz
+2. chmod -R 777 /root/minio/data
+3. docker run -it -d --name minio -m 400m \
+-p 9000:9000 -p 9001:9001 \
+--net mynet --ip 172.18.0.10 \
+-v /root/minio/data:/data \
+-e TZ=Asia/Shanghai --privileged=true \
+--env MINIO_ROOT_USER="root" \
+--env MINIO_ROOT_PASSWORD="abc123456" \
+bitnami/minio:latest
+
+4. UI: http://127.0.0.1:9001/login
+
+5. docker start minio
+
