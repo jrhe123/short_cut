@@ -6,7 +6,7 @@ docker:
 2. docker run -it -d --name sentinel \
 -p 8719:8719 -p 8858:8858 \
 --net mynet --ip 172.18.0.13 \
--e TZ=Asia/Shanghai -m 200m \
+-e TZ=Asia/Shanghai \
 bladex/sentinel-dashboard
 
 3. UI: http://localhost:8858/#/login
