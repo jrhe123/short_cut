@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/17329299/159635659-c4c87b57-735e-4694-
 <br><br><br>
 # 4. Bizwave solutions
 <img width="720" src="https://user-images.githubusercontent.com/17329299/159625150-313faa54-0ece-4eb8-9d40-531186575530.png">
-<img width="720" src="https://user-images.githubusercontent.com/17329299/159625180-36be798b-3c1a-4c8a-a1c3-67e210c8cb80.png">
+<img width="1206" alt="Screen Shot 2022-05-02 at 5 40 23 PM" src="https://user-images.githubusercontent.com/17329299/166332176-d8d7ba04-5fcc-4225-8806-ca33267f0bf3.png">
 
 
 <br><br><br>
