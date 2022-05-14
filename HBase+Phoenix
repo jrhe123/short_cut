@@ -6,3 +6,78 @@ docker run -it -d -p 2181:2181 -p 8765:8765 -p 15165:15165 \
 -v /root/hbase/data:/tmp/hbase-root/hbase/data \
 --name phoenix --net mynet --ip 172.18.0.14 \
 boostport/hbase-phoenix-all-in-one:2.0-5.0
+
+docker exec -it phoenix bash
+export HBASE_CONF_DIR=/opt/hbase/conf/
+
+=============== exec:
+
+/opt/phoenix-server/bin/sqlline.py localhost
+
+1.
+CREATE SCHEMA hxds;
+2.
+USE hxds;
+3.
+CREATE TABLE hxds.order_voice_text(
+    "id" BIGINT NOT NULL PRIMARY KEY, 
+    "uuid" VARCHAR,
+    "order_id" BIGINT,
+    "record_file" VARCHAR,
+    "text" VARCHAR,
+    "label" VARCHAR,
+    "suggestion" VARCHAR,
+    "keywords" VARCHAR,
+    "create_time" DATE
+);
+
+
+CREATE SEQUENCE hxds.ovt_sequence START WITH 1 INCREMENT BY 1;
+
+CREATE INDEX ovt_index_1 ON hxds.order_voice_text("uuid");
+CREATE INDEX ovt_index_2 ON hxds.order_voice_text("order_id");
+CREATE INDEX ovt_index_3 ON hxds.order_voice_text("label");
+CREATE INDEX ovt_index_4 ON hxds.order_voice_text("suggestion");
+CREATE INDEX ovt_index_5 ON hxds.order_voice_text("create_time");
+
+4.
+CREATE TABLE hxds.order_monitoring
+(
+    "id"          BIGINT NOT NULL PRIMARY KEY,
+    "order_id"    BIGINT,
+    "status"      TINYINT,
+    "records"     INTEGER,
+    "safety"       VARCHAR,
+    "reviews"     INTEGER,
+    "alarm"       TINYINT,
+    "create_time" DATE
+);
+
+CREATE INDEX om_index_1 ON hxds.order_monitoring("order_id");
+CREATE INDEX om_index_2 ON hxds.order_monitoring("status");
+CREATE INDEX om_index_3 ON hxds.order_monitoring("safety");
+CREATE INDEX om_index_4 ON hxds.order_monitoring("reviews");
+CREATE INDEX om_index_5 ON hxds.order_monitoring("alarm");
+CREATE INDEX om_index_6 ON hxds.order_monitoring("create_time");
+
+CREATE SEQUENCE hxds.om_sequence START WITH 1 INCREMENT BY 1;
+
+5.
+CREATE TABLE hxds.order_gps(
+    "id" BIGINT NOT NULL PRIMARY KEY, 
+    "order_id" BIGINT,
+    "driver_id" BIGINT,
+    "customer_id" BIGINT,
+    "latitude" VARCHAR,
+    "longitude" VARCHAR,
+    "speed" VARCHAR,
+    "create_time" DATE
+);
+
+CREATE SEQUENCE og_sequence START WITH 1 INCREMENT BY 1;
+
+CREATE INDEX og_index_1 ON hxds.order_gps("order_id");
+CREATE INDEX og_index_2 ON hxds.order_gps("driver_id");
+CREATE INDEX og_index_3 ON hxds.order_gps("customer_id");
+CREATE INDEX og_index_4 ON hxds.order_gps("create_time");
+
