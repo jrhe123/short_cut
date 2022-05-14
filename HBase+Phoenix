@@ -8,10 +8,11 @@ docker run -it -d -p 2181:2181 -p 8765:8765 -p 15165:15165 \
 boostport/hbase-phoenix-all-in-one:2.0-5.0
 
 docker exec -it phoenix bash
-export HBASE_CONF_DIR=/opt/hbase/conf/
+
 
 =============== exec:
 
+export HBASE_CONF_DIR=/opt/hbase/conf/
 /opt/phoenix-server/bin/sqlline.py localhost
 
 1.
