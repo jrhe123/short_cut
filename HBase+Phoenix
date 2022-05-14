@@ -1,0 +1,8 @@
+docker load < phoenix.tar.gz
+
+
+docker run -it -d -p 2181:2181 -p 8765:8765 -p 15165:15165 \
+-p 16000:16000 -p 16010:16010 -p 16020:16020 \
+-v /root/hbase/data:/tmp/hbase-root/hbase/data \
+--name phoenix --net mynet --ip 172.18.0.14 \
+boostport/hbase-phoenix-all-in-one:2.0-5.0
