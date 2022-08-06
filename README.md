@@ -1,6 +1,6 @@
 # Past Experience
 
-# 6. PublishXi Inc.
+# 7. PublishXi Inc.
 
 https://user-images.githubusercontent.com/17329299/159635659-c4c87b57-735e-4694-92a4-c0a8386d92fe.mp4
 
@@ -11,6 +11,16 @@ https://user-images.githubusercontent.com/17329299/159635659-c4c87b57-735e-4694-
 <img width="720" src="https://user-images.githubusercontent.com/17329299/159634892-82c77f10-c06c-46dd-8ed9-b2581920eb88.jpeg" />
 
 <br><br><br>
+
+# 6. Lamina solutions
+
+<img width="240" alt="Screen Shot 2022-08-06 at 12 29 59 AM" src="https://user-images.githubusercontent.com/17329299/183233904-2f06a6dd-e13d-4c65-a553-4a4cb5df5e8d.png">
+<img width="240" alt="Screen Shot 2022-08-06 at 12 30 35 AM" src="https://user-images.githubusercontent.com/17329299/183233910-1f0eb045-dcc3-474a-9a98-7f6a5de981c3.png">
+<img width="240" alt="Screen Shot 2022-08-06 at 12 31 54 AM" src="https://user-images.githubusercontent.com/17329299/183233913-8d07b1ae-136b-4c11-a8d1-aedb82225ad4.png">
+<img width="240" alt="Screen Shot 2022-08-06 at 12 32 26 AM" src="https://user-images.githubusercontent.com/17329299/183233923-b60e4944-3293-4d3e-83bb-df61040bc1a1.png">
+
+<br><br><br>
+
 # 5. Avalon
 <img width="720" src="https://user-images.githubusercontent.com/17329299/159627847-3ac30a2f-be69-4ee2-bb18-7e5813ed92c9.png">
 
