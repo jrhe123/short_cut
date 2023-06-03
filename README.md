@@ -95,10 +95,4 @@ https://user-images.githubusercontent.com/17329299/159624027-ce24da13-7be4-41ec-
 
 <img width="240" src="https://user-images.githubusercontent.com/17329299/159617707-d6076543-a43d-4a39-8d23-4feca54c9368.png">
 
-### WebRTC remote online meeting
-
-<img width="720" src="https://user-images.githubusercontent.com/17329299/159638537-662aa41c-bb68-438c-8fa8-0bd58038df97.png">
-
-<img width="720" src="https://user-images.githubusercontent.com/17329299/159638549-e392395f-d9f8-4875-a32a-b6aa5356cd3c.png">
-
 <br><br><br>
