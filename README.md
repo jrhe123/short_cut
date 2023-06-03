@@ -1,6 +1,6 @@
 # Past Experience
 
-### others (continue reading)
+### Others (continue reading)
 - https://github.com/jrhe123/short_cut/blob/main/notes.md
 
 # 8. Personal Game Development (Unity)
