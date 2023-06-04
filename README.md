@@ -38,12 +38,13 @@ https://user-images.githubusercontent.com/17329299/159635659-c4c87b57-735e-4694-
 
 <br><br><br>
 
-# 5. Avalon
+<div style="display: none">
 <img width="720" src="https://user-images.githubusercontent.com/17329299/159627847-3ac30a2f-be69-4ee2-bb18-7e5813ed92c9.png">
 
 <img width="720" src="https://user-images.githubusercontent.com/17329299/159627864-60a386e5-2542-4b5f-950a-e61eba042b14.png">
 
 <img width="720" src="https://user-images.githubusercontent.com/17329299/159627880-36c81429-8d0e-4c8c-aad5-eb4e643f1b83.png">
+</div>
 
 <br><br><br>
 # 4. Bizwave solutions
