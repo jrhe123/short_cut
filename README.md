@@ -8,6 +8,8 @@
 
 <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/pJbyYfs0TQo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=pJbyYfs0TQo "Now in Android: 55")
+
 
 
 
