@@ -5,7 +5,9 @@
 
 # 7. Personal Game Development (Unity)
 
-[![](https://markdown-videos.deta.dev/youtube/pJbyYfs0TQo)](https://youtu.be/pJbyYfs0TQo)
+[![](https://markdown-videos.deta.dev/youtube/pJbyYfs0TQo)](https://www.youtube.com/watch?v=pJbyYfs0TQo)
+
+
 
 # 6. PublishXi Inc. (<a href="https://laminasolutions.com/">View</a>)
 
