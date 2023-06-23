@@ -6,7 +6,7 @@
 # 7. Personal Game Development (Unity)
 
 
-<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/{% "pJbyYfs0TQo" %}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/pJbyYfs0TQo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
