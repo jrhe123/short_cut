@@ -5,7 +5,9 @@
 
 # 7. Personal Game Development (Unity)
 
-[![](https://markdown-videos.deta.dev/youtube/pJbyYfs0TQo)](https://www.youtube.com/watch?v=pJbyYfs0TQo)
+
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/{% "pJbyYfs0TQo" %}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 
 
