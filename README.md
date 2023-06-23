@@ -51,7 +51,8 @@ https://user-images.githubusercontent.com/17329299/159622019-9610729d-fb5b-4867-
 <img width="720" src="https://user-images.githubusercontent.com/17329299/159621987-230bebb0-784d-4d2c-8ae5-d683c48f9f23.png">
 
 <br><br><br>
-# 2. PopRx Inc. (<a href="https://www.youtube.com/watch?v=N98RMSF4MCs"></a>)
+
+# 2. PopRx Inc. (<a href="https://www.youtube.com/watch?v=NAHd62s2F7I&t=2s">Demo</a>)
 
 https://user-images.githubusercontent.com/17329299/159624027-ce24da13-7be4-41ec-a9ec-1f818628671f.mp4
 <img width="240" src="https://user-images.githubusercontent.com/17329299/159618893-afc32299-86c1-4563-8cb3-003556f6863f.png" />
