@@ -5,12 +5,7 @@
 
 # 7. Personal Game Development (Unity)
 
-
-<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/pJbyYfs0TQo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=pJbyYfs0TQo "Now in Android: 55")
-
-
+[<img src="https://i9.ytimg.com/vi_webp/pJbyYfs0TQo/mq2.webp?sqp=CLSp2KQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGEsgZShjMA8=&rs=AOn4CLBdh_Tp2fpKKHFj0IG8d0fBUo6aWA" width="100%">](https://www.youtube.com/watch?v=pJbyYfs0TQo "Ninja Girl")
 
 
 # 6. PublishXi Inc. (<a href="https://laminasolutions.com/">View</a>)
