@@ -5,7 +5,9 @@
 
 # 7. Personal Game Development (Unity)
 
-[<img src="https://i9.ytimg.com/vi_webp/pJbyYfs0TQo/mq2.webp?sqp=CLSp2KQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGEsgZShjMA8=&rs=AOn4CLBdh_Tp2fpKKHFj0IG8d0fBUo6aWA" width="100%">](https://www.youtube.com/watch?v=pJbyYfs0TQo "Ninja Girl")
+[<img src="https://i9.ytimg.com/vi_webp/pJbyYfs0TQo/mq2.webp?sqp=CLSp2KQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGEsgZShjMA8=&rs=AOn4CLBdh_Tp2fpKKHFj0IG8d0fBUo6aWA" width="50%">](https://www.youtube.com/watch?v=pJbyYfs0TQo "Ninja Girl")
+
+<a href="https://www.youtube.com/watch?v=pJbyYfs0TQo"/>game video</a>
 
 
 # 6. PublishXi Inc. (<a href="https://laminasolutions.com/">View</a>)
