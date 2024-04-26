@@ -1,4 +1,4 @@
-# Past Experience
+# Highlights
 
 ### Others (continue reading)
 - https://github.com/jrhe123/short_cut/blob/main/notes.md
