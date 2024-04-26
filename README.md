@@ -14,7 +14,7 @@
 
 [<img width="50%" alt="Screen Shot 2023-06-29 at 10 38 44 PM" src="https://i9.ytimg.com/vi_webp/pgl_znItlJA/mq1.webp?sqp=CIjDsLEG-oaymwEmCMACELQB8quKqQMa8AEB-AHQCYAC0AWKAgwIABABGEQgUChlMA8=&rs=AOn4CLCa4OPjqJX7IP0-Mo5xkNTUjFbazA">](https://www.youtube.com/watch?v=pgl_znItlJA "RAG app")
 
-<a href="https://www.youtube.com/watch?v=pgl_znItlJA"/>LLM RAG app</a>
+<a href="https://www.youtube.com/watch?v=pgl_znItlJA"/>LLM RAG demo</a>
 
 # 7. Personal Game Development (Unity)
 
