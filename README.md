@@ -3,11 +3,18 @@
 ### Others (continue reading)
 - https://github.com/jrhe123/short_cut/blob/main/notes.md
 
-# 8. RAG app with AI avatar (Unity)
+# 9. Tensorflow Recommendation System
 
-[<img width="50%" alt="Screen Shot 2023-06-29 at 10 38 44 PM" src="https://github.com/jrhe123/short_cut/assets/17329299/25eb5c91-a083-4298-b071-c6444633e979">](https://www.youtube.com/watch?v=pJbyYfs0TQo "Ninja Girl")
+- Private Repo
 
-<a href="https://www.youtube.com/watch?v=pJbyYfs0TQo"/>LLM RAG app</a>
+<img width="753" alt="mlp" src="https://github.com/jrhe123/short_cut/assets/17329299/4bae1925-0ba4-488c-99a0-0ba112373fd0">
+
+
+# 8. RAG app with AI avatar
+
+[<img width="50%" alt="Screen Shot 2023-06-29 at 10 38 44 PM" src="https://i9.ytimg.com/vi_webp/pgl_znItlJA/mq1.webp?sqp=CIjDsLEG-oaymwEmCMACELQB8quKqQMa8AEB-AHQCYAC0AWKAgwIABABGEQgUChlMA8=&rs=AOn4CLCa4OPjqJX7IP0-Mo5xkNTUjFbazA">](https://www.youtube.com/watch?v=pgl_znItlJA "RAG app")
+
+<a href="https://www.youtube.com/watch?v=pgl_znItlJA"/>LLM RAG app</a>
 
 # 7. Personal Game Development (Unity)
 
