@@ -6,7 +6,7 @@
 
 - Private Repo (Send Request)
 
-# 9. RAG app with AI avatar
+# 9. RAG app with AI in Online Consultation
 
 <img width="657" alt="Screenshot 2024-05-08 at 10 23 59 AM" src="https://github.com/jrhe123/short_cut/assets/17329299/5d86bf88-2aa9-4a62-ae8a-d3ad89f88445">
 
