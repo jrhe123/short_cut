@@ -20,7 +20,7 @@
 <a href="https://youtu.be/eyUP5FwAdUg"/>3D demo</a>
 
 
-# 7. Personal Game Development (Unity)
+# 7. Game Development (Unity)
 
 [<img width="50%" alt="Screen Shot 2023-06-29 at 10 38 44 PM" src="https://github.com/jrhe123/short_cut/assets/17329299/25eb5c91-a083-4298-b071-c6444633e979">](https://www.youtube.com/watch?v=pJbyYfs0TQo "Ninja Girl")
 
