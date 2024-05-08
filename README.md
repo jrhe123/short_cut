@@ -1,14 +1,10 @@
 # Highlights
 
-### Others (continue reading)
-- https://github.com/jrhe123/short_cut/blob/main/notes.md
-
-# 10. PySpark & Tensorflow Recommendation System
-
-- Private Repo
+# 10. Spark & Tensorflow E-commerce Recommendation System
 
 <img width="753" alt="mlp" src="https://github.com/jrhe123/short_cut/assets/17329299/4bae1925-0ba4-488c-99a0-0ba112373fd0">
 
+- Private Repo (Send Request)
 
 # 9. RAG app with AI avatar
 
@@ -107,3 +103,6 @@ https://user-images.githubusercontent.com/17329299/159624027-ce24da13-7be4-41ec-
 <img width="240" src="https://user-images.githubusercontent.com/17329299/159617707-d6076543-a43d-4a39-8d23-4feca54c9368.png">
 
 <br><br><br>
+
+### Others (continue reading)
+- https://github.com/jrhe123/short_cut/blob/main/notes.md
