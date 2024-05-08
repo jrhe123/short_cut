@@ -2,7 +2,7 @@
 
 # 10. Spark & Tensorflow E-commerce Recommendation System
 
-<img width="753" alt="mlp" src="https://github.com/jrhe123/short_cut/assets/17329299/4bae1925-0ba4-488c-99a0-0ba112373fd0">
+<img width="300" alt="mlp" src="https://github.com/jrhe123/short_cut/assets/17329299/4bae1925-0ba4-488c-99a0-0ba112373fd0">
 
 - Private Repo (Send Request)
 
