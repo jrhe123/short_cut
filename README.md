@@ -3,18 +3,26 @@
 ### Others (continue reading)
 - https://github.com/jrhe123/short_cut/blob/main/notes.md
 
-# 9. PySpark & Tensorflow Recommendation System
+# 10. PySpark & Tensorflow Recommendation System
 
 - Private Repo
 
 <img width="753" alt="mlp" src="https://github.com/jrhe123/short_cut/assets/17329299/4bae1925-0ba4-488c-99a0-0ba112373fd0">
 
 
-# 8. RAG app with AI avatar
+# 9. RAG app with AI avatar
 
-[<img width="50%" alt="Screen Shot 2023-06-29 at 10 38 44 PM" src="https://i9.ytimg.com/vi_webp/pgl_znItlJA/mq1.webp?sqp=CIjDsLEG-oaymwEmCMACELQB8quKqQMa8AEB-AHQCYAC0AWKAgwIABABGEQgUChlMA8=&rs=AOn4CLCa4OPjqJX7IP0-Mo5xkNTUjFbazA">](https://www.youtube.com/watch?v=pgl_znItlJA "RAG app")
+<img width="657" alt="Screenshot 2024-05-08 at 10 23 59 AM" src="https://github.com/jrhe123/short_cut/assets/17329299/5d86bf88-2aa9-4a62-ae8a-d3ad89f88445">
 
 <a href="https://www.youtube.com/watch?v=pgl_znItlJA"/>LLM RAG demo</a>
+
+# 8. WebGL with E-commerce
+
+<img width="570" alt="Screenshot 2024-05-08 at 10 27 14 AM" src="https://github.com/jrhe123/short_cut/assets/17329299/26934418-8b80-4923-bbf5-a7ab829bc850">
+
+
+<a href="https://youtu.be/eyUP5FwAdUg"/>LLM RAG demo</a>
+
 
 # 7. Personal Game Development (Unity)
 
