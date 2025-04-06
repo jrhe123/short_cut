@@ -15,7 +15,7 @@
 # 8. WebGL with E-commerce
 
 <img width="570" alt="Screenshot 2024-05-08 at 10 27 14 AM" src="https://github.com/jrhe123/short_cut/assets/17329299/26934418-8b80-4923-bbf5-a7ab829bc850">
-
+<img width="570" alt="Screenshot 2025-04-06 at 13 02 32" src="https://github.com/user-attachments/assets/5ac5d8f6-73bd-47c1-8d55-6a626d7b8cb3" />
 
 <a href="https://youtu.be/eyUP5FwAdUg"/>3D demo</a>
 
