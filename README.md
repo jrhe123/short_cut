@@ -11,7 +11,7 @@
 <img width="570" alt="mcp-agent drawio" src="https://github.com/user-attachments/assets/02f7e872-9f7a-4390-af59-d2589aee9118" />
 
 
-# 10. Spark & Tensorflow E-commerce Recommendation System
+# 10. Spark & Tensorflow E-commerce Recommendation System (RFM)
 
 <img width="300" alt="mlp" src="https://github.com/jrhe123/short_cut/assets/17329299/4bae1925-0ba4-488c-99a0-0ba112373fd0">
 
