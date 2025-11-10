@@ -1,5 +1,13 @@
 # Highlights
 
+# 15. Cybersecurity & Backup System
+
+<img width="240" height="194" alt="image" src="https://github.com/user-attachments/assets/72652aaf-ff51-40ad-ba54-3741f664eff2" />
+<img width="240" height="159" alt="image" src="https://github.com/user-attachments/assets/7e8705fd-3fcb-4249-87e0-5d787e0a7255" />
+<img width="240" height="120" alt="image" src="https://github.com/user-attachments/assets/4f5f4a31-645f-4481-afd1-534619b0628d" />
+<img width="240" height="159" alt="image" src="https://github.com/user-attachments/assets/b7ed77b7-4430-425a-9972-7c2b3821592b" />
+<img width="240" height="194" alt="image" src="https://github.com/user-attachments/assets/81a137dc-076d-4fd3-a2b5-d13d0a837fdb" />
+
 # 14. N8N - Digital marketing tool
 
 <img width="570" alt="Screenshot 2025-11-09 at 21 30 16" src="https://github.com/user-attachments/assets/375c50be-7e48-4abf-9db3-bcdaa96b00ae" />
