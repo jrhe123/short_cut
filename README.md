@@ -2,7 +2,7 @@
 
 # 11. Agentic LLM
 
-<img width="600" alt="mcp-agent drawio" src="https://github.com/user-attachments/assets/02f7e872-9f7a-4390-af59-d2589aee9118" />
+<img width="800" alt="mcp-agent drawio" src="https://github.com/user-attachments/assets/02f7e872-9f7a-4390-af59-d2589aee9118" />
 
 
 # 10. Spark & Tensorflow E-commerce Recommendation System
