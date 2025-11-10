@@ -6,7 +6,7 @@
 <img width="570" alt="Screenshot 2025-11-09 at 21 11 51" src="https://github.com/user-attachments/assets/1c99a61f-db23-480e-bcf9-68d99d17e389" />
 <img width="570" alt="Screenshot 2025-11-09 at 21 07 47" src="https://github.com/user-attachments/assets/e63e6069-c58d-4d3f-8f00-56b8754be0aa" />
 
-# 11. Agentic LLM
+# 11. Agentic LLM Solution (<a href="https://totogi.com/"/">View</a>)
 
 <img width="800" alt="mcp-agent drawio" src="https://github.com/user-attachments/assets/02f7e872-9f7a-4390-af59-d2589aee9118" />
 
