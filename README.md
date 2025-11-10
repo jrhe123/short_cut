@@ -2,7 +2,7 @@
 
 # 13. Custom LLM SaaS Platform - Llama CPP
 
-<img width="570" height="1130" alt="image" src="https://github.com/user-attachments/assets/9d379003-d524-4634-9585-195f07229cb2" />
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/9d379003-d524-4634-9585-195f07229cb2" />
 
 # 12. POCT Laboratory
 
