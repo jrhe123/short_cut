@@ -14,7 +14,7 @@
 <img width="570" alt="Screenshot 2025-11-09 at 21 30 16" src="https://github.com/user-attachments/assets/375c50be-7e48-4abf-9db3-bcdaa96b00ae" />
 <img width="570" alt="Screenshot 2025-11-09 at 21 30 02" src="https://github.com/user-attachments/assets/79205848-a302-4496-bddd-e2f0c04ee205" />
 
-# 13. Fine Tuned LLM SaaS Platform - Llama CPP
+# 13. Self-hosted & Fine Tuned LLM SaaS Platform - Llama CPP
 
 <img width="570" alt="image" src="https://github.com/user-attachments/assets/9d379003-d524-4634-9585-195f07229cb2" />
 
