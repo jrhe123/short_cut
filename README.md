@@ -1,12 +1,13 @@
 # Highlights
 
 # 15. Cybersecurity & Backup System
+<img width="242" height="95" alt="Screenshot 2025-11-09 at 21 39 50" src="https://github.com/user-attachments/assets/232f19a3-888c-4c8b-89cd-29da9e566b05" />
+<img width="259" height="114" alt="Screenshot 2025-11-09 at 21 40 04" src="https://github.com/user-attachments/assets/0b4bbe97-4e37-4d6e-9e53-d6fd8a82d802" />
+<img width="257" height="82" alt="Screenshot 2025-11-09 at 21 40 12" src="https://github.com/user-attachments/assets/7be2400b-6698-4aca-a95c-a39fcfd5d529" />
+<img width="249" height="74" alt="Screenshot 2025-11-09 at 21 40 22" src="https://github.com/user-attachments/assets/afec776d-697c-4756-ad83-39d5806f01a5" />
+<img width="233" height="66" alt="Screenshot 2025-11-09 at 21 40 28" src="https://github.com/user-attachments/assets/883c8f1f-78bb-4fe6-8c08-26c6aa935c3a" />
 
-<img width="240" height="194" alt="image" src="https://github.com/user-attachments/assets/72652aaf-ff51-40ad-ba54-3741f664eff2" /><br/>
-<img width="240" height="159" alt="image" src="https://github.com/user-attachments/assets/7e8705fd-3fcb-4249-87e0-5d787e0a7255" /><br/>
-<img width="240" height="120" alt="image" src="https://github.com/user-attachments/assets/4f5f4a31-645f-4481-afd1-534619b0628d" /><br/>
-<img width="240" height="159" alt="image" src="https://github.com/user-attachments/assets/b7ed77b7-4430-425a-9972-7c2b3821592b" /><br/>
-<img width="240" height="194" alt="image" src="https://github.com/user-attachments/assets/81a137dc-076d-4fd3-a2b5-d13d0a837fdb" />
+
 
 # 14. N8N - Digital marketing tool
 
