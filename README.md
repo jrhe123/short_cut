@@ -18,7 +18,7 @@
 
 <img width="570" alt="image" src="https://github.com/user-attachments/assets/9d379003-d524-4634-9585-195f07229cb2" />
 
-# 12. Healthcare
+# 12. Healthcare SaaS Platform
 
 <img width="570" alt="Screenshot 2025-11-09 at 21 15 42" src="https://github.com/user-attachments/assets/f8537f28-1557-4faf-8869-cfe1c0cfecd8" />
 <img width="570" alt="Screenshot 2025-11-09 at 21 11 51" src="https://github.com/user-attachments/assets/1c99a61f-db23-480e-bcf9-68d99d17e389" />
